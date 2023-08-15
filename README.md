@@ -21,7 +21,7 @@
 A full content java programmer & offical workplaces  
 🏠 Living:Gazipur,Bangladesh  
 <a href="https://www.facebook.com/login">
-<img src="../../../images/icon.png" width="40px" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVobGtQ-WH0bZzgxt4uPGwzijmCfMjzSX3KgTq86Mf&s" width="40px" />
 </a>
 <a href="https://www.linkedin.com/login">
 <img src="../../../images/down1.png" width="40px" />
@@ -77,7 +77,7 @@ console.log('Hello');
 | Nasir uddin | text |
 | Sagor | sagor12@gmail.com|
 
-![profile](./images/1.jpg);
+![profile](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/239427705_401979038027959_5601039094404509337_n.jpg?stp=dst-jpg_p526x296&_nc_cat=109&ccb=1-7&_nc_sid=be3454&_nc_eui2=AeGRXSZ5r0VEMKEbXNqmrS9ILJ5h5GG1QrEsnmHkYbVCsQoZdqiP7XWo-2ZJRo3b4TAk-Uk3MiR3spvkRD_Z3tRp&_nc_ohc=FbEpcRKzpC8AX8xjTWC&_nc_ht=scontent.fdac155-1.fna&oh=00_AfDCTUypS6YTul8Ntz1IrWIkm_kvwOqlc2L7YwviKxBYjA&oe=64E01AF0);
 
 
 
