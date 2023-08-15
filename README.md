@@ -21,7 +21,7 @@
 A full content java programmer & offical workplaces  
 🏠 Living:Gazipur,Bangladesh  
 <a href="https://www.facebook.com/login">
-<img src="./images/icon.png" width="40px" />
+<img src="../../../images/icon.png" width="40px" />
 </a>
 <a href="https://www.linkedin.com/login">
 <img src="../../../images/down1.png" width="40px" />
@@ -69,7 +69,7 @@ console.log('Hello');
 
 
 ## Task List
--[x] Task 1
+- [x] Task 1
 - [x] Task 2  
 ### table style
 | .Name. | .Email.  |
