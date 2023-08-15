@@ -24,11 +24,10 @@ A full content java programmer & offical workplaces
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6_IY167VvxTB92i2XatBmz5oeOMtiwGMjng&usqp=CAU" width="40px" />
 </a>
 <a href="https://www.linkedin.com/login">
-<img src="https://github.com/Nasiroxd/readme-template/assets/142161571/72a535cc-95aa-4962-8b24-de59c044afbb)
-" width="40px" />
+<img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" width="40px" />
 </a>
 <a href="https://www.wordpress.com/login">
-<img src="../../../images/word1.png" width="40px" clip-path=circle() />
+<img src="https://img.freepik.com/free-icon/wordpress_318-183439.jpg?w=360" width="40px" clip-path=circle() />
 </a>
 
 `This is inline`  
