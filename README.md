@@ -24,7 +24,7 @@ A full content java programmer & offical workplaces
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6_IY167VvxTB92i2XatBmz5oeOMtiwGMjng&usqp=CAU" width="40px" />
 </a>
 <a href="https://www.linkedin.com/login">
-<img src="![image](https://github.com/Nasiroxd/readme-template/assets/142161571/72a535cc-95aa-4962-8b24-de59c044afbb)
+<img src="https://github.com/Nasiroxd/readme-template/assets/142161571/72a535cc-95aa-4962-8b24-de59c044afbb)
 " width="40px" />
 </a>
 <a href="https://www.wordpress.com/login">
