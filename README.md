@@ -77,7 +77,7 @@ console.log('Hello');
 | Nasir uddin | text |
 | Sagor | sagor12@gmail.com|
 
-![profile](../../../images/1.jpg);
+![profile](./images/1.jpg);
 
 
 
