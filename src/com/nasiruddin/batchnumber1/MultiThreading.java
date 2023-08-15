@@ -19,7 +19,7 @@ public class MultiThreading {
 
 //        AThreadClass a = new AThreadClass();
 //        a.start();
-        MyRunnable myRunnable = new MyRunnable("Mini",06,)
+//        MyRunnable myRunnable = new MyRunnable("Mini",06,);
 
 //        MyRunnable myRunnable = new MyRunnable();
 //
