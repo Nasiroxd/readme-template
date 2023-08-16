@@ -47,8 +47,8 @@ A full content java programmer & offical workplaces
 </html>
 
 ```
-```javascript
-console.log('Hello');
+```Java
+System.out.println("Hello word");
 ```
 ### Order List
 
